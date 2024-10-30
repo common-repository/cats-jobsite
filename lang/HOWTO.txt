@@ -1,0 +1,80 @@
+WordPress Plugin Internationalization/Localization
+
+How to Translate the cats-jobsite Plugin with WordPress
+
+If you are interested in translating the cats-jobsite (or any WP plugin) into a 
+language other than English, this file will explain how to do so. WordPress 
+uses the GetText libraries to provide translations. Although it is easy to 
+find WordPress translations in many languages, those files do not out-of-the-box 
+support the cats-jobsite plugin. An additional translation file must be built 
+(if not already) with our language strings translated with GetText to accomplish 
+this.
+
+The first file you will need is our POT file, which includes all of our language 
+strings. The latest copy is found in the "lang/" sub-directory of the cats-jobsite
+plugin. To load the POT file and create translation files, you will need some 
+software. Some popular software can be found in the "Translating WordPress" 
+section of the following web site:
+
+http://codex.wordpress.org/Translating_WordPress
+
+Follow the instructions that came with your software (LaunchPad, Pootle, poEdit,
+KBabel, GNU Gettext, etc.) to load the POT file and create a .mo file.
+YOU MUST HAVE A .mo FILE, NOT A .po FILE FOR TRANSLATIONS!
+A .mo is just a compiled .po file, so if you have the .po file, again use one 
+of the software tools above to compile it into a .mo file.
+
+After writing the translations, we ask (but do not require) that you submit 
+your .mo file back to the community so that others looking for the same language 
+may benefit. The easiest way to do this is to email your .mo file to 
+andrew@catsone.com or post it on our Developer's Corner Forum at 
+http://www.catsone.com/.
+
+Before writing translations, check if your language is already supported. A list 
+of the currently available translation files can be found in the "lang/" 
+sub-directory of the cats-jobsite plugin. All files ending in .mo are applicable 
+language translation files.
+
+IMPORTANT - NAMING SCHEME
+
+All .mo files must meet certain naming criteria in order to be loaded. Our 
+domain is 'cats-jobsite' (minus the single quotes). In addition to the domain, 
+you will need your language code, which looks like 'en_US' or 'de'. For a list 
+of some languages with codes, look at:
+
+http://codex.wordpress.org/WordPress_in_Your_Language
+
+The naming criteria with the 'en_US' language code would be:
+
+cats-jobsite-en_US.mo
+
+You must follow this same format in order to translate the cats-jobsite plugin!
+
+INSTALLATION INSTRUCTIONS
+
+It is presumed that you now have found a translation file (ending in .mo) and 
+have named it in accordance with the naming scheme guidelines found in the 
+previous section.
+
+1) Copy the desired .mo file to the WordPress wp-content/plugins folder. 
+   DO NOT LEAVE THE FILE IN THE 'lang/' SUB-DIRECTORY OR IN THE cats-jobsite 
+   PLUGIN DIRECTORY! IT WILL ONLY WORK IN THE 'wp-content/plugins' DIRECTORY!
+
+2) Edit your wp-config.php file (found in the root WordPress directory) and 
+   look for the line similar to:
+   
+   define('WPLANG', '');
+   
+   Change it to include your language code, for 'en_US', use:
+
+   define('WPLANG', 'en_US');
+
+3) You're set! Reload your WordPress site and browse to the cats-jobsite 
+   plugin and it should be in your native language.
+
+HELP
+
+For help, post on our Developer's Corner forum at:
+
+http://www.catsone.com/
+

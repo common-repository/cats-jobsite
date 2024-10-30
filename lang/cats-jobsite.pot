@@ -1,0 +1,611 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/cats-jobsite\n"
+"POT-Creation-Date: 2011-01-17 19:21:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: lang.tpl.php:9 templates/index.tpl.php:6
+msgid "You are logged in as <strong>%s.</strong>."
+msgstr ""
+
+#: lang.tpl.php:10 templates/index.tpl.php:7
+msgid "Not %s?"
+msgstr ""
+
+#: lang.tpl.php:11 templates/index.tpl.php:8
+msgid "Log out"
+msgstr ""
+
+#: lang.tpl.php:12 templates/index.tpl.php:16
+#: templates/sidebarprofile.tpl.php:2
+msgid "My Profile"
+msgstr ""
+
+#: lang.tpl.php:13 templates/index.tpl.php:17
+#: templates/sidebarprofile.tpl.php:48
+msgid "My Resume"
+msgstr ""
+
+#: lang.tpl.php:14 templates/index.tpl.php:21
+msgid "RSS Feed"
+msgstr ""
+
+#: lang.tpl.php:15 templates/index.tpl.php:21
+msgid "Jobs RSS Feed"
+msgstr ""
+
+#: lang.tpl.php:16 templates/index.tpl.php:30
+msgid "Search:"
+msgstr ""
+
+#: lang.tpl.php:17 templates/index.tpl.php:34
+msgid "Sort:"
+msgstr ""
+
+#: lang.tpl.php:18 templates/sidebarrecentjobs.tpl.php:2
+msgid "Jobs Recently Viewed"
+msgstr ""
+
+#: lang.tpl.php:19 templates/sidebarprofile.tpl.php:7
+msgid "Name:"
+msgstr ""
+
+#: lang.tpl.php:20 templates/sidebarprofile.tpl.php:11
+#: templates/editprofile.tpl.php:40 templates/profile.tpl.php:26
+msgid "Address:"
+msgstr ""
+
+#: lang.tpl.php:21 templates/login.tpl.php:11
+#: templates/sidebarprofile.tpl.php:26 templates/sidebarlogin.tpl.php:9
+#: templates/editprofile.tpl.php:7 templates/profile.tpl.php:6
+#: templates/forgot.tpl.php:6 templates/register.tpl.php:6
+msgid "Email:"
+msgstr ""
+
+#: lang.tpl.php:22 templates/sidebarprofile.tpl.php:30
+msgid "Registered:"
+msgstr ""
+
+#: lang.tpl.php:23 templates/sidebarprofile.tpl.php:36
+#: templates/profile.tpl.php:67
+msgid "Edit Profile"
+msgstr ""
+
+#: lang.tpl.php:24 templates/sidebarprofile.tpl.php:39
+#: templates/profile.tpl.php:74
+msgid "Jobs I've Applied To:"
+msgstr ""
+
+#: lang.tpl.php:25
+msgid "<a href=&quot;%s&quot;>%s</a> on %s"
+msgstr ""
+
+#: lang.tpl.php:26 templates/sidebarprofile.tpl.php:57
+msgid "Log Out"
+msgstr ""
+
+#: lang.tpl.php:27 templates/resume.tpl.php:3
+msgid "Created: %s"
+msgstr ""
+
+#: lang.tpl.php:28 templates/resume.tpl.php:4
+msgid "File Size: %s"
+msgstr ""
+
+#: lang.tpl.php:29 templates/resume.tpl.php:9
+msgid "Have a newer version?"
+msgstr ""
+
+#: lang.tpl.php:30 templates/resume.tpl.php:11
+msgid "Upload:"
+msgstr ""
+
+#: lang.tpl.php:31 templates/apply.tpl.php:23 templates/login.tpl.php:22
+#: templates/sidebarlogin.tpl.php:20 templates/resume.tpl.php:15
+#: templates/editprofile.tpl.php:84 templates/forgot.tpl.php:12
+#: templates/sendtofriend.tpl.php:26 templates/register.tpl.php:42
+msgid "Submit"
+msgstr ""
+
+#: lang.tpl.php:32 templates/redirect.tpl.php:1
+msgid "One moment please..."
+msgstr ""
+
+#: lang.tpl.php:33
+msgid ""
+"Your request is being processed. You should automatically be redirected to a "
+"new page in a few seconds. If you aren't redirected or don't want to wait, "
+"<a href=&quot;%s&quot;>click here</a>."
+msgstr ""
+
+#: lang.tpl.php:34 templates/show.tpl.php:1
+msgid "Back to Jobs"
+msgstr ""
+
+#: lang.tpl.php:35 templates/show.tpl.php:6
+msgid "Location: %s"
+msgstr ""
+
+#: lang.tpl.php:36 templates/show.tpl.php:7
+msgid "Salary: %s"
+msgstr ""
+
+#: lang.tpl.php:37 templates/show.tpl.php:8
+msgid "Posted: %s"
+msgstr ""
+
+#: lang.tpl.php:38 templates/show.tpl.php:15
+msgid "Apply to Job"
+msgstr ""
+
+#: lang.tpl.php:39 templates/show.tpl.php:19 templates/sendtofriend.tpl.php:3
+msgid "Send to Friend"
+msgstr ""
+
+#: lang.tpl.php:40 templates/index.tpl.php:13 templates/login.tpl.php:6
+#: templates/sidebarlogin.tpl.php:4
+msgid "Login"
+msgstr ""
+
+#: lang.tpl.php:41 templates/index.tpl.php:14
+msgid "Register"
+msgstr ""
+
+#: lang.tpl.php:42 templates/index.tpl.php:14
+msgid "(optional)"
+msgstr ""
+
+#: lang.tpl.php:43 templates/login.tpl.php:8 templates/sidebarlogin.tpl.php:6
+msgid "Have you registered with us before? Login to review your applications:"
+msgstr ""
+
+#: lang.tpl.php:44 templates/login.tpl.php:16
+#: templates/sidebarlogin.tpl.php:14 templates/register.tpl.php:11
+msgid "Password:"
+msgstr ""
+
+#: lang.tpl.php:45 templates/login.tpl.php:23
+#: templates/sidebarlogin.tpl.php:21
+msgid "Forgot password?"
+msgstr ""
+
+#: lang.tpl.php:46 templates/apply.tpl.php:4
+msgid "Applying to %s"
+msgstr ""
+
+#: lang.tpl.php:47 templates/onapply.tpl.php:1
+msgid "Application Received"
+msgstr ""
+
+#: lang.tpl.php:48 templates/onapply.tpl.php:2
+msgid ""
+"You have successfully applied to %s and your resume is being delivered to "
+"the appropriate hiring authority."
+msgstr ""
+
+#: lang.tpl.php:49
+msgid ""
+"If you're interested in other jobs, please free to apply to them as well. "
+"You can view a list of open jobs <a href=&quot;%s&quot;>here</a>. For your "
+"convenience, we've saved your answers (so you won't have to type them again)."
+msgstr ""
+
+#: lang.tpl.php:50 templates/editprofile.tpl.php:1 templates/profile.tpl.php:1
+msgid "Edit My Profile"
+msgstr ""
+
+#: lang.tpl.php:51 templates/profile.tpl.php:4
+msgid "Registered %s"
+msgstr ""
+
+#: lang.tpl.php:52 templates/editprofile.tpl.php:23
+#: templates/profile.tpl.php:10
+msgid "Title:"
+msgstr ""
+
+#: lang.tpl.php:53 templates/editprofile.tpl.php:28
+#: templates/profile.tpl.php:14
+msgid "First Name:"
+msgstr ""
+
+#: lang.tpl.php:54 templates/editprofile.tpl.php:32
+#: templates/profile.tpl.php:18
+msgid "Middle Name:"
+msgstr ""
+
+#: lang.tpl.php:55 templates/editprofile.tpl.php:36
+#: templates/profile.tpl.php:22
+msgid "Last Name:"
+msgstr ""
+
+#: lang.tpl.php:56 templates/editprofile.tpl.php:44
+#: templates/profile.tpl.php:30
+msgid "City:"
+msgstr ""
+
+#: lang.tpl.php:57 templates/editprofile.tpl.php:48
+#: templates/profile.tpl.php:34
+msgid "State:"
+msgstr ""
+
+#: lang.tpl.php:58 templates/editprofile.tpl.php:52
+#: templates/profile.tpl.php:38
+msgid "Postcode:"
+msgstr ""
+
+#: lang.tpl.php:59 templates/editprofile.tpl.php:56
+#: templates/profile.tpl.php:42
+msgid "Phone (Home):"
+msgstr ""
+
+#: lang.tpl.php:60 templates/editprofile.tpl.php:60
+#: templates/profile.tpl.php:46
+msgid "Phone (Work):"
+msgstr ""
+
+#: lang.tpl.php:61 templates/editprofile.tpl.php:64
+#: templates/profile.tpl.php:50
+msgid "Phone (Cell):"
+msgstr ""
+
+#: lang.tpl.php:62 templates/editprofile.tpl.php:68
+#: templates/profile.tpl.php:54
+msgid "Website:"
+msgstr ""
+
+#: lang.tpl.php:63 templates/editprofile.tpl.php:73
+#: templates/profile.tpl.php:59
+msgid "Resume:"
+msgstr ""
+
+#: lang.tpl.php:64 templates/profile.tpl.php:60
+msgid "view / edit"
+msgstr ""
+
+#: lang.tpl.php:65 templates/editprofile.tpl.php:11
+msgid "New Password"
+msgstr ""
+
+#: lang.tpl.php:66 templates/editprofile.tpl.php:13
+msgid "Leave empty to keep your existing password."
+msgstr ""
+
+#: lang.tpl.php:67 templates/editprofile.tpl.php:16
+#: templates/register.tpl.php:16
+msgid "Repeat:"
+msgstr ""
+
+#: lang.tpl.php:68 templates/editprofile.tpl.php:25
+msgid "Describe yourself in a sentence."
+msgstr ""
+
+#: lang.tpl.php:69 templates/login.tpl.php:27 templates/forgot.tpl.php:16
+msgid "Haven't registered yet? It only takes a minute"
+msgstr ""
+
+#: lang.tpl.php:70 templates/forgot.tpl.php:16
+msgid "click here"
+msgstr ""
+
+#: lang.tpl.php:71 templates/onforgot.tpl.php:1
+msgid "Password Sent"
+msgstr ""
+
+#: lang.tpl.php:72 templates/onforgot.tpl.php:5
+msgid ""
+"Your password has been emailed to %s. If you haven't received an email after "
+"a few minutes, you may want to check your spam or junk folder."
+msgstr ""
+
+#: lang.tpl.php:73 templates/onforgot.tpl.php:1
+msgid "No Registration Found"
+msgstr ""
+
+#: lang.tpl.php:74
+msgid ""
+"The email address %s has not been registered yet. You can <a href=&quot;%"
+"s&quot;>register here</a> (it only takes a minute)."
+msgstr ""
+
+#: lang.tpl.php:75 templates/register.tpl.php:4
+msgid "Create Account"
+msgstr ""
+
+#: lang.tpl.php:76 templates/register.tpl.php:22
+msgid "General"
+msgstr ""
+
+#: lang.tpl.php:77 templates/onregister.tpl.php:1
+msgid "Registration Complete"
+msgstr ""
+
+#: lang.tpl.php:78 templates/onregister.tpl.php:2
+msgid ""
+"You have registered with us and your profile will now be in the pool for all "
+"of our jobs, now and going forward. If you see any jobs on this website that "
+"interest you, please apply to them directly as it helps us sort out the kind "
+"of work that you're looking for and lets us know which specific positions "
+"fit you best."
+msgstr ""
+
+#: lang.tpl.php:79 templates/onregister.tpl.php:4
+msgid ""
+"If you return later, you can view all of the positions that you're in "
+"consideration for by logging in with the email address and password that you "
+"chose."
+msgstr ""
+
+#: lang.tpl.php:80
+msgid ""
+"You can view a list of open jobs <a href=&quot;%s&quot;>here</a>. For your "
+"convenience, we've saved your answers (so you won't have to type them again)."
+msgstr ""
+
+#: lang.tpl.php:81 templates/editprofile.tpl.php:79
+msgid "Upload Resume:"
+msgstr ""
+
+#: lang.tpl.php:82 templates/error.tpl.php:5
+msgid "Debug Information (visible by administrators only)"
+msgstr ""
+
+#: lang.tpl.php:83 templates/error.tpl.php:9
+msgid "Error on line %d in %s."
+msgstr ""
+
+#: lang.tpl.php:84 templates/error.tpl.php:11
+msgid "Backtrace:"
+msgstr ""
+
+#: lang.tpl.php:85 lang.tpl.php:96 templates/sidebartopjobs.tpl.php:2
+msgid "Top Jobs"
+msgstr ""
+
+#: lang.tpl.php:86 lang.tpl.php:97 templates/sidebartopjobs.tpl.php:12
+msgid "See all Jobs"
+msgstr ""
+
+#: lang.tpl.php:87 templates/index.tpl.php:55
+msgid "Reset Search / Show All Jobs"
+msgstr ""
+
+#: lang.tpl.php:88 templates/index.tpl.php:63
+msgid "Search matched no jobs."
+msgstr ""
+
+#: lang.tpl.php:89 templates/login.tpl.php:1
+msgid "Login / Returning Applicants"
+msgstr ""
+
+#: lang.tpl.php:90
+msgid "<a href=&quot;%s&quot;>click here</a>."
+msgstr ""
+
+#: lang.tpl.php:91 lang.tpl.php:98 templates/sendtofriend.tpl.php:1
+msgid "Back to %s"
+msgstr ""
+
+#: lang.tpl.php:92 lang.tpl.php:99 templates/sendtofriend.tpl.php:10
+msgid "Your Email:"
+msgstr ""
+
+#: lang.tpl.php:93 lang.tpl.php:100 templates/sendtofriend.tpl.php:14
+msgid "Friend's Email:"
+msgstr ""
+
+#: lang.tpl.php:94 lang.tpl.php:101 templates/sendtofriend.tpl.php:18
+msgid "Subject:"
+msgstr ""
+
+#: lang.tpl.php:95 lang.tpl.php:102 templates/sendtofriend.tpl.php:22
+msgid "Message:"
+msgstr ""
+
+#: controllers/onregister.php:36 controllers/onlogin.php:44
+#: controllers/onsendtofriend.php:44 controllers/onapply.php:45
+msgid "postback"
+msgstr ""
+
+#: controllers/onregister.php:44 controllers/oneditprofile.php:40
+#: controllers/onsendtofriend.php:56
+msgid "email"
+msgstr ""
+
+#: controllers/onregister.php:45 controllers/oneditprofile.php:41
+msgid "password1"
+msgstr ""
+
+#: controllers/onregister.php:46 controllers/oneditprofile.php:42
+msgid "password2"
+msgstr ""
+
+#: controllers/onlogin.php:38
+msgid "logout"
+msgstr ""
+
+#: controllers/onlogin.php:46 controllers/onforgot.php:37
+msgid "loginEmail"
+msgstr ""
+
+#: controllers/onlogin.php:47
+msgid "loginPassword"
+msgstr ""
+
+#: controllers/index.php:116
+msgid "ccmsSearch"
+msgstr ""
+
+#: controllers/index.php:148
+msgid "ccmsPage"
+msgstr ""
+
+#: controllers/index.php:183
+msgid "ccmsSort"
+msgstr ""
+
+#: controllers/oneditprofile.php:43 controllers/onapply.php:47
+msgid "title"
+msgstr ""
+
+#: controllers/oneditprofile.php:44
+msgid "first_name"
+msgstr ""
+
+#: controllers/oneditprofile.php:45
+msgid "middle_name"
+msgstr ""
+
+#: controllers/oneditprofile.php:46
+msgid "last_name"
+msgstr ""
+
+#: controllers/oneditprofile.php:47
+msgid "address"
+msgstr ""
+
+#: controllers/oneditprofile.php:48
+msgid "city"
+msgstr ""
+
+#: controllers/oneditprofile.php:49
+msgid "state"
+msgstr ""
+
+#: controllers/oneditprofile.php:50
+msgid "post_code"
+msgstr ""
+
+#: controllers/oneditprofile.php:51
+msgid "phone_home"
+msgstr ""
+
+#: controllers/oneditprofile.php:52
+msgid "phone_work"
+msgstr ""
+
+#: controllers/oneditprofile.php:53
+msgid "phone_cell"
+msgstr ""
+
+#: controllers/oneditprofile.php:54
+msgid "website"
+msgstr ""
+
+#: controllers/show.php:37 controllers/onsendtofriend.php:35
+#: controllers/sendtofriend.php:40 controllers/apply.php:38
+#: controllers/onapply.php:38
+msgid "id"
+msgstr ""
+
+#: controllers/onsendtofriend.php:42
+msgid "emailto"
+msgstr ""
+
+#: controllers/onsendtofriend.php:54
+msgid "subject"
+msgstr ""
+
+#: controllers/onsendtofriend.php:55
+msgid "message"
+msgstr ""
+
+#: templates/index.tpl.php:65
+msgid ""
+"There are no jobs available at this time. Please bookmark us and check back "
+"later."
+msgstr ""
+
+#: templates/index.tpl.php:72
+msgid "Showing %s of <strong>%s</strong> jobs (page %s of %s"
+msgstr ""
+
+#: templates/onforgot.tpl.php:3
+msgid ""
+"The email address %s has not been registered yet. You can <a href=\"%s"
+"\">register here</a> (it only takes a minute)."
+msgstr ""
+
+#: templates/login.tpl.php:28
+msgid "<a href=\"%s\">click here</a>."
+msgstr ""
+
+#: templates/sidebarprofile.tpl.php:42 templates/profile.tpl.php:77
+msgid "<a href=\"%s\">%s</a> on %s"
+msgstr ""
+
+#: templates/onsendtofriend.tpl.php:1
+msgid "Email Sent"
+msgstr ""
+
+#: templates/onsendtofriend.tpl.php:2
+msgid ""
+"We've sent an email to %s with the job's description and your message. It "
+"should be arriving shortly. If your friend doesn't receive the message, it "
+"may be in their spam box (depending on their settings)."
+msgstr ""
+
+#: templates/onsendtofriend.tpl.php:4
+msgid "View a list of open jobs <a href=\"%s\">here</a>."
+msgstr ""
+
+#: templates/onregister.tpl.php:6
+msgid ""
+"You can view a list of open jobs <a href=\"%s\">here</a>. For your "
+"convenience, we've saved your answers (so you won't have to type them again)."
+msgstr ""
+
+#: templates/options.tpl.php:2
+msgid "CATS JobSite Plugin"
+msgstr ""
+
+#: templates/options.tpl.php:4
+msgid ""
+"Adds functionality to your Wordpress site by adding widgets and additional "
+"pages generated from CATS through its API. For additional configuration, "
+"login to CATS and click on the Website tab."
+msgstr ""
+
+#: templates/options.tpl.php:10
+msgid "Save Changes"
+msgstr ""
+
+#: templates/redirect.tpl.php:3
+msgid ""
+"Your request is being processed. You should automatically be redirected to a "
+"new page in a few seconds. If you aren't redirected or don't want to wait, "
+"<a href=\"%s\">click here</a>."
+msgstr ""
+
+#: templates/unconfigured.tpl.php:1
+msgid "Awaiting Setup"
+msgstr ""
+
+#: templates/unconfigured.tpl.php:3
+msgid ""
+"The administrator has not yet configured this part of the website. Please "
+"try back again in a few minutes."
+msgstr ""
+
+#: templates/onapply.tpl.php:4
+msgid ""
+"If you're interested in other jobs, please free to apply to them as well. "
+"You can view a list of open jobs <a href=\"%s\">here</a>. For your "
+"convenience, we've saved your answers (so you won't have to type them again)."
+msgstr ""
+
+#: templates/sendtofriend.tpl.php:23
+msgid ""
+"I came across this job on the web and I thought that you might be interested."
+msgstr ""
+
+#: templates/sendtofriend.tpl.php:24
+msgid "The job description will be appended to your message."
+msgstr ""
